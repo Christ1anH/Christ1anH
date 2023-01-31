@@ -1,5 +1,4 @@
-###
-<h3>
+### <h3>
   Principal Stack
 </h3> 
 <p>
