@@ -1,4 +1,7 @@
 ### 
+<h2>Hello</h2>
+<p>Hi my name is Christian, i'm from Costa Rica</p>
+
 <h3>Principal Stack</h3> 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
