@@ -1,5 +1,5 @@
 ### 
-<h2>Hello</h2>
+<h2>Hello 👋</h2>
 <p>My name is Christian, i'm from Costa Rica</p>
 
 <h3>Principal Stack</h3> 
