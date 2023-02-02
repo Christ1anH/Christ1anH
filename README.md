@@ -1,6 +1,6 @@
 ### 
 <h2>Hello</h2>
-<p>Hi my name is Christian, i'm from Costa Rica</p>
+<p>My name is Christian, i'm from Costa Rica</p>
 
 <h3>Principal Stack</h3> 
 <p>
