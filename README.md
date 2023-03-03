@@ -1,6 +1,6 @@
 ### 
 <h2>Hi, I'm Christian 👋</h2>
-<p>FrontEnd Developer, i'm from Costa Rica</p>
+<p>Front-End Developer, i'm from Costa Rica</p>
 
 <h3>Principal Stack</h3> 
 <p>
@@ -23,6 +23,6 @@
 
 <h3>Contact</h3>
 <p>
-  <a href="[#](https://www.linkedin.com/in/christ1anh/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/christ1anh/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 </p>
