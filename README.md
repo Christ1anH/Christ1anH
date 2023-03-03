@@ -1,6 +1,6 @@
 ### 
-<h2>Hello 👋</h2>
-<p>My name is Christian, i'm from Costa Rica</p>
+<h2>Hi, I'm Christian 👋</h2>
+<p>FrontEnd Developer, i'm from Costa Rica</p>
 
 <h3>Principal Stack</h3> 
 <p>
@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"> -->
 </p>
 
-<h4>Tools & Technologies</h4>
+<h3>Tools & Technologies</h3>
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </p>
 
-<h4>Contact</h4>
+<h3>Contact</h3>
 <p>
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
