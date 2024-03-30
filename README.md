@@ -1,5 +1,5 @@
 ### 
-<h2>Hi, I'm Christian 👋</h2>
+<h2 align="center">Hi, I'm Christian 👋</h2>
 <p>Front-End Developer, i'm from Costa Rica</p>
 
 <h3>Principal Stack</h3> 
