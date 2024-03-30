@@ -4,9 +4,7 @@
 
 <h3>Principal Stack</h3> 
 <p align="center">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js" />
-  </a>
 </p>
 
 <h3>Tools & Technologies</h3>
