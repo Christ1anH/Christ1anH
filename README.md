@@ -3,8 +3,10 @@
 <p>Front-End Developer, i'm from Costa Rica</p>
 
 <h3>Principal Stack</h3> 
-<p>
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js" />
+  </a>
 </p>
 
 <h3>Tools & Technologies</h3>
