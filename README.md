@@ -3,7 +3,7 @@
 <p>Front-End Developer, i'm from Costa Rica</p>
 
 <h3>Principal Stack</h3> 
-<p align="center">
+<p>
     <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
