@@ -4,9 +4,7 @@
 
 <h3>Principal Stack</h3> 
 <p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-  </a>
+  [![My Skills](https://skillicons.dev/icons?i=html,,css,js)](https://skillicons.dev)
 </p>
 
 <h3>Tools & Technologies</h3>
