@@ -1,7 +1,6 @@
 ### 
 <h2 align="center">Hi, I'm Christian Hernández👋</h2>
-<p>Front-End Developer, i'm from Costa Rica <img src="![image](https://github.com/Christ1anH/Christ1anH/assets/86026709/a007f47d-3f0f-4462-b213-689115c54ec8)
-"></p>
+<p>Front-End Developer, i'm from Costa Rica <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Costa_Rica.svg/200px-Flag_of_Costa_Rica.svg.png"></p>
 
 <h3>Principal Stack</h3> 
 <p>
