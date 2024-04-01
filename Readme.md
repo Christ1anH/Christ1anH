@@ -19,3 +19,9 @@
   <a href="https://www.linkedin.com/in/christ1anh/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=twitter" /></a>
 </p>
+
+<h3>Donations</h3>
+
+<p>
+    <a href="https://www.paypal.com/paypalme/christianhdz02"<img src="https://skillicons.dev/icons?i=paypal"></a>
+</p>
