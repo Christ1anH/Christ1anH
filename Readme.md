@@ -23,5 +23,5 @@
 <h3>Donations</h3>
 
 <p>
-    <a href="https://www.paypal.com/paypalme/christianhdz02"<img src="https://cdn.icon-icons.com/icons2/1195/PNG/512/1490889684-paypal_82515.png)"></a>
+    <a href="https://www.paypal.com/paypalme/christianhdz02"<img src="https://cdn.icon-icons.com/icons2/1195/PNG/512/1490889684-paypal_82515.png"></a>
 </p>
